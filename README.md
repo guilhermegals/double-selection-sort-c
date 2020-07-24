@@ -1,1 +1,1 @@
-# double-selection-sort-c
+# Double Selection Sort in C
